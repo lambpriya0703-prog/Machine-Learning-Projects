@@ -9,7 +9,7 @@ expected_columns = joblib.load("heart_columns.pkl")
 
 
 # App Title
-st.title(" Heart Stroke Prediction ! ")
+st.title(" Heart Stroke PredictionB By Priya! ")
 st.subheader(" Please Check Now Your Heart Stroke Risk !! ")
 st.subheader(" Read All The Instructions Carefully Before Check !!! ")    
 
