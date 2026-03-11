@@ -1,9 +1,9 @@
 # Machine-Learning-Heart Stroke Prediction 
 
 ## 🚀 Live Demo  
-👉 [Click here to use the App]  https://machinelearningpr1.streamlit.app/
+👉 [Click here to use the App]  https://heartstrokepredictionin.streamlit.app/
 
-<img width="1814" height="982" alt="image" src="https://github.com/user-attachments/assets/a959a461-094f-434b-9a24-56d2681dd9c8" />
+<img width="1394" height="910" alt="image" src="https://github.com/user-attachments/assets/44e741a4-9ce1-4b89-b097-0afba7574e05" />
 
 ## 💖 Heart Stroke Prediction
 
