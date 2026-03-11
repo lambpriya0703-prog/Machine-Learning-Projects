@@ -131,4 +131,4 @@ with st.expander("📄 Terms and Conditions"):
     """)
 
 # Footer 
-st.markdown("Designed by **Anshu**")
+st.markdown("Designed by **Priya**")
