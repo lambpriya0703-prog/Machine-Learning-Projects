@@ -56,12 +56,12 @@ The goal of this project is to build an interactive web application using **Stre
 
 ### 🙋‍♂️ Author
 
-Anshu Sahani
+Priya Lamb
 
 B.Tech | AI & Data Science
 
-📧 anshusahani8577@gmail.com
+📧 Email
 
 📌 Linkedin 
 
-https://www.linkedin.com/in/anshu-sahani-768b39355/
+
