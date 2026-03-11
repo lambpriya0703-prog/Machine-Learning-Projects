@@ -24,7 +24,7 @@ def set_background(color_hex):
 set_background("#000000")
 
 # App Title
-st.title("💓 Heart Stroke Prediction By Ansh")
+st.title("💓 Heart Stroke Prediction By Priya")
 
 st.markdown("Please fill in the details below to assess your heart stroke risk.")
 
